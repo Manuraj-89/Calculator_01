@@ -1,6 +1,8 @@
 #!/bin/bash
 
-x=a+b
-y=a-b
+x=a+b   # addition
+y=a-b   # substraction
+
+
 
 
